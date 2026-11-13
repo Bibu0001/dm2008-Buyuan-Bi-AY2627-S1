@@ -19,7 +19,7 @@ This is my personal mono-repo for DM2008. It contains all my work across the sem
 | Folder              | What's Inside                                    |
 | ------------------- | ------------------------------------------------ |
 | `01-activities/`    | Weekly in-class activities and exercises         |
-| `02-mini-project/`  | Mini Project — Pong or Flappy Bird clone         |
+| `02-mini-project/`  | Mini Project — Pong       |
 | `03-sensor-jam/`    | Sensor Jam — Arduino to p5.js interactive sketch |
 | `04-final-project/` | Final Project — end-of-semester capstone         |
 
