@@ -1,4 +1,4 @@
-# DM2008 — Bunyan Bi
+# DM2008 — Buyuan Bi
 
 **Course:** DM2008: Programming for Interaction  
 **Academic Year:** AY2526 Semester 2  
