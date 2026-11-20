@@ -1,4 +1,4 @@
-# Sensor Jam — Title
+# Sensor Jam — WHO LET THE DOGS OUT
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -6,15 +6,13 @@
 
 ### The Project
 
-<!-- What does your sketch do, and what physical input drives it?
-     How does the sensor data translate into something on screen?
-     A few sentences is all you need. -->
+Its a 3d model of a dog that becomes bigger the closer you get to the distance sensor
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenshot](documentation/sensor-jam-documentation.mp4)
 
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
@@ -31,8 +29,7 @@
      GOING FURTHER — want to document more? Try any of these:
 
      ### ✍️ Reflection
-     A short write-up of your process — what worked, what didn't,
-     and what you'd take further if you had more time.
+    We just wanted to see whether p5js could import 3d models. 
 
      ### 🛠️ Hardware
      List the physical components you used.
