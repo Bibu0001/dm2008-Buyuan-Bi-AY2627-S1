@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 2 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | a sketch where pressing keys changes background colours while pressing mouse changes the moving square to a circle |
+| `1b`     | rows of circles that are revealed with a gradient of colour that changes when mouse is pressed and changes to squares when key is pressed|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,14 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+ We leant how to use loops and conditional statements to create repeated patterns across the canvas. I learnt how mouse and keyboard inputs could be used to create simple interactive experiences. 
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenrecording](readme-assets/activity2a.mov)
+![screenrecording](readme-assets/activity2b.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
