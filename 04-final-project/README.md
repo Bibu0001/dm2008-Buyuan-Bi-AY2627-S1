@@ -12,7 +12,7 @@ We tried to create an ecosystem simulation that contains objects that eat each o
 
 ### Output
 
-![screenrecording](documentation/screen-recording-01-E.mp4)
+![screenshot](documentation/screenshot1)
 
 
 
