@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | <!-- graphic of male toilet sign --> |
+| `1b`     | <!-- a sketch in the style of Ryoji Ikeda with a black square that follows mouse--> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,14 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<!--  I learnt the fundamentals of p5js and making shapes on sceen as well as some basic interactivity with the mouse using transparency to create overlapping trails and patterns over time. -->
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/activity1a.png)
+![screenrecording](readme-assets/activity1b.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
