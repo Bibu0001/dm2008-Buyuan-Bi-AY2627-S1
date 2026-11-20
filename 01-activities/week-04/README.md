@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 4 — Object oriented programming
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | a sketch of an interactive cookie using a custom Cookie class, allowing it to move around the canvas with arrow keys and randomly change flavours when clicked. |
+| `1b`     | a sketch of circles that move, bounce, change colours, respond to gravity and gradually shrink, with mouse clicks generating new agents. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,15 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+We learned how constructors, properties and methods work together to give each object its own characteristics and behaviours.  I found it hard to implement the multiple properties at the start but experimenting with different values helped me understand how objects can interact and evolve over time.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenrecording](readme-assets/activity4a.mov)
+![screenrecording](readme-assets/activity4b.mov)
+)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

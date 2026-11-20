@@ -1,4 +1,4 @@
-# Mini Project — Title
+# Mini Project — MULTIVERSE PONG
 
 <!-- Replace "Title" with the name of your project, e.g. "Mini Project — Pong Remix" -->
 
@@ -6,20 +6,21 @@
 
 ### The Project
 
-<!-- What did you build and what makes it yours? A few sentences is enough.
-     What did you change, add, or push beyond the scaffold? -->
+We built a Pong game - except that for each subsequent round, players will have to battle in exponentially-multiplying instances of Pong.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenshot](readme-assets/Screenshot1.png)
+![screenshot](readme-assets/Screenshot2.png)
+
 
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
      Got more than one good screenshot? Add them. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://drive.google.com/file/d/1S7nviCp3vghS7_zMNq5jd9DyWZiMFs0p/view)
 
 <!-- Replace the link above with a URL to a screen recording or video of your project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
@@ -28,12 +29,13 @@
 
 ### ✍️ Reflection
 
-<!-- 200–300 words on your process. Write freely — this isn't an essay.
-     Some prompts to get you started:
-     — What did you set out to make, and how did the result compare?
-     — What inputs does your sketch respond to, and how did you approach that?
-     — What was your biggest challenge, and how did you work through it?
-     — What would you push further if you had more time? -->
+We chose the Pong assignment because we found a two-player experience more engaging than a single-player game like Flappy Bird. Inspired by 5D Chess With Multiverse Time Travel, we developed a variation of Pong featuring multiple simultaneous game instances, which also allowed us to explore JavaScript subclasses. The final game includes sound effects and a title screen, adding polish to the core gameplay.
+
+The game uses keyboard inputs: W/S and the arrow keys control the paddles, A/D and the left/right arrow keys adjust round settings, while the spacebar starts or restarts the game.
+
+Our biggest challenge was developing the screen division system. Syriaz did the heavy lifting.
+
+The game is a little hard to play but I feel the project successfully achieves its original goals. Given more time, I would have further developed the visuals and maybe introduced some power ups.
 
 ---
 

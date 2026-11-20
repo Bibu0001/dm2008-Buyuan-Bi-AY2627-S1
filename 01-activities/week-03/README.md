@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 3 — Arrays, Functions and Transformations
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | an interactive row of coloured rectangles using an array, where mouse clicks add randomly generated colours and key presses remove the last rectangle.|
+| `1b`     | an image using a custom person() function, with continuous rotation around the canvas centre and mouse interaction to toggle its visibility. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,14 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+We learned how to use arrays to store and change multiple values, allowing me to add and remove visual elements. I also explored creating functions can group shapes together. Through mouse interaction and animation, I learned how to make my sketches more interactive by controlling visibility and rotation.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenrecording](readme-assets/activity3a.mov)
+![screenrecording](readme-assets/activity3b.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

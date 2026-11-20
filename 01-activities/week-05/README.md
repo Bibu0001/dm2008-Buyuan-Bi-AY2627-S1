@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 5 — Object-oriented programming
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | a sketch of an interactive collision simulation featuring two bouncing balls that move using vectors and transform into red triangles when they overlap.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +18,13 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+We learnt how to use vectors to control the movement of objects and learned how to detect collisions between moving shapes. i didnt do physics in school so I did not get the concept of vectors but it helped when i saw it in motion and also watched a coding train video.
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/activity5a.mov)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
