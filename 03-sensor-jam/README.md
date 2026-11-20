@@ -12,13 +12,14 @@ Its a 3d model of a dog that becomes bigger the closer you get to the distance s
 
 ### Output
 
-![screenshot](documentation/sensor-jam-documentation.mp4)
+![screenrecording](documentation/sensor-jam-documentation.mp4)
+![screenshot](documentation/screenshot-01.jpg)
 
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
      Save everything to a readme-assets/ folder inside this project folder. -->
 
-[Watch Online](https://your-link-here)
+[Watch Online](https://drive.google.com/file/d/1dRKYnJRtHS2VQC0q-mvwHsA-_6vkuHco/view?usp=sharing)
 
 <!-- Replace the link above with a URL to a video of your project in action.
      ⚠️ Make sure the file or page is set to public before submitting. -->
