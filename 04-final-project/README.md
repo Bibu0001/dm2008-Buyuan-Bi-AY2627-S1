@@ -12,13 +12,11 @@ We tried to create an ecosystem simulation that contains objects that eat each o
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenrecording](documentation/screen-recording-01-E.mp4)
 
-<!-- Drop a screenshot or GIF of your project.
-     Got more to show? Add more images — let the work speak for itself.
-     Save everything to a readme-assets/ folder inside this project folder. -->
 
-[Watch Online](https://editor.p5js.org/furiousskeeleton/full/ZFnp30XDH)
+
+[Watch Online](https://drive.google.com/file/d/1q00wjlOG9U4cxICdkfm_BiKHnVDqBxar/view)
 
 <!-- Replace the link above with a URL to a screen recording or video of your final project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
