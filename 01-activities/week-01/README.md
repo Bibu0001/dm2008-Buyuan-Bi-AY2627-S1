@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- graphic of male toilet sign --> |
-| `1b`     | <!-- a sketch in the style of Ryoji Ikeda with a black square that follows mouse--> |
+| `1a`     | graphic of male toilet sign |
+| `1b`     | a sketch in the style of Ryoji Ikeda with a black square that follows mouse |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,7 +19,7 @@
 
 ### This Week
 
-<!--  I learnt the fundamentals of p5js and making shapes on sceen as well as some basic interactivity with the mouse using transparency to create overlapping trails and patterns over time. -->
+ I learnt the fundamentals of p5js and making shapes on sceen as well as some basic interactivity with the mouse using transparency to create overlapping trails and patterns over time. 
 
 ---
 
